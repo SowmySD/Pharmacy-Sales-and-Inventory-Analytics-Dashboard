@@ -68,6 +68,7 @@ We collected real-time transaction data, performed detailed exploratory analysis
 ### ⏱️ Predictive Modeling
 - **Time Series** – Forecast seasonal tablet demand.
 
+---
 
 ##  Prediction Models Used
 
@@ -82,11 +83,39 @@ These models are essential in enabling **proactive decision-making** rather than
 
 ---
 
-##  Key Insights
+## Dashboard
 
-- 📦 **Inventory Optimization**: Reduced overstock and out-of-stock situations using data-driven predictions.
-- 🏥 **Healthcare Efficiency**: Enhanced ability to meet patient needs with accurate forecasting.
-- 🔁 **Data Feedback Loops**: Real-time updates to prediction models as more data is collected.
+All analysis and predictions are consolidated into a **Power BI Dashboard** offering:
+
+- 🔍 Interactive filtering and exploration  
+- 📈 Real-time sales trend monitoring  
+- 🚨 Stock-level alerts  
+- 🧑‍⚕️ Doctor-prescription tracking  
+- 🔮 Predictive insights for planning  
+
+🔗 [View Dashboard](https://app.powerbi.com/links/ReA0aFVzoV?ctid=562673cb-3a12-4428-9c2e-82d74fd5889a&pbi_source=linkShare) 
+
+🎥 **Dashboard Walkthrough Video**  
+🔗 [Watch Video](https://drive.google.com/file/d/1TzLw6Na8McX-zzxVVAEEG715MXMozhqj/view) 
+
+![Alt Text]()
+![Alt Text]()
+![Alt Text]()
+![Alt Text]()
+
+---
+
+##  Code & Tools
+
+### 🛠️ Languages & Tools : Python , Power BI , Pandas , Matplotlib , Statsmodels , Scikit-learn  
+### 📚 Libraries Used
+- `PyPDF2`, `pdfplumber` – For PDF text extraction  
+- `pandas`, `numpy` – Data manipulation and cleaning  
+- `matplotlib`, `seaborn` – Data visualization  
+- `statsmodels` – Time series forecasting (ARIMA, SARIMA)  
+- `sklearn` – Machine learning (Random Forest Classification)  
+
+🔗 [Google Colab Notebook](https://colab.research.google.com/drive/1Ae-iLvD8h7r4AR00UxYPUVCmZUiDxTYt?usp=sharing) 
 
 ---
 
@@ -99,15 +128,14 @@ These models are essential in enabling **proactive decision-making** rather than
 
 ---
 
-##  Visualizations & Dashboards
+##  Outcome
 
-The blog discusses how **interactive dashboards** are built to present:
-- Daily tablet sales trends
-- Stock depletion rates
-- Disease vs medicine correlation graphs
-- Predictive alerts for low inventory levels
+This project successfully:
 
-These visual tools help stakeholders—from pharmacists to data scientists—make timely and informed decisions.
+- ✅ Reduced medicine expiry waste through proactive classification  
+- ✅ Improved stock management using forecasting and restocking logic  
+- ✅ Revealed valuable prescription and purchasing patterns  
+- ✅ Enabled data-driven decision-making in pharmacy operations  
 
 ---
 
@@ -116,3 +144,7 @@ These visual tools help stakeholders—from pharmacists to data scientists—mak
 Tamil Nadu Co-operative Pharmacy used analytics to forecast the demand of common fever tablets during a seasonal outbreak, leading to better preparedness and zero wastage.
 
 ---
+✍️ **Read the Full Blog**  
+Check out the detailed blog post here:  
+📖 [Pharmacy Sales and Inventory Analytics Using Power BI](https://medium.com/@sowmya.dina2004/tablets-trends-where-healthcare-meets-data-science-74b3b1464ff9) 
+
