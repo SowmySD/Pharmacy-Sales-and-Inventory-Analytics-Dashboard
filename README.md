@@ -46,21 +46,28 @@ We collected real-time transaction data, performed detailed exploratory analysis
 
 ## Analytics Performed
 
-## 📈 Statistical & Mathematical Models in Pharma Analytics
+##  Statistical & Mathematical Models 
 
-- Analyze **doctor-wise prescriptions** to identify frequently prescribed medicines per doctor.
-- Use **bill amount distribution with hypothesis testing** to detect anomalies in billing.
-- Apply **Pareto analysis (80/20 rule)** to find top customers contributing to majority of sales.
-- Study **quantity vs discount correlation** to evaluate the impact of pricing on bulk purchases.
-- Perform **cohort analysis** to understand patient retention and repeat purchase behavior.
-- Map **product life cycle curves** to track sales through introduction, growth, maturity, and decline.
-- Utilize **descriptive statistics** to summarize average demand, variability, and peak periods.
-- Conduct **trend analysis** to identify rising or falling patterns in medicine popularity.
-- Implement **correlation analysis** to explore relationships between demographics, diseases, and drug usage.
-- Leverage **time series analysis** to forecast seasonal and temporal demand for tablets.
+### 📊 Descriptive & Diagnostic
+- **Descriptive Stats** – Avg. demand & variability.
+- **Trend Analysis** – Track drug popularity over time.
+- **Doctor-wise Analysis** – Most prescribed meds per doctor.
+- **Product Life Cycle** – Sales stages: intro to decline.
+
+### 🧪 Statistical Testing
+- **Hypothesis Testing** – Detect billing anomalies.
+- **Pareto Rule (80/20)** – Top customers driving sales.
+
+### 🔄 Correlation & Behavior
+- **Correlation Analysis** – Link between demographics & usage.
+- **Discount Impact** – Effect of discounts on bulk buying.
+- **Cohort Analysis** – Repeat patient behavior.
+
+### ⏱️ Predictive Modeling
+- **Time Series** – Forecast seasonal tablet demand.
 
 
-## 🔮 Prediction Models Used
+##  Prediction Models Used
 
 Advanced **machine learning** and **mathematical models** are highlighted to forecast demand and optimize stock levels:
 
@@ -73,7 +80,7 @@ These models are essential in enabling **proactive decision-making** rather than
 
 ---
 
-## 💡 Key Insights
+##  Key Insights
 
 - 📦 **Inventory Optimization**: Reduced overstock and out-of-stock situations using data-driven predictions.
 - 🏥 **Healthcare Efficiency**: Enhanced ability to meet patient needs with accurate forecasting.
@@ -81,7 +88,7 @@ These models are essential in enabling **proactive decision-making** rather than
 
 ---
 
-## 🌐 Role of Data Science in Pharma
+##  Role of Data Science in Pharma
 
 - 📉 Reducing drug wastage through accurate demand forecasting
 - 🚑 Supporting public health planning and hospital readiness
@@ -90,7 +97,7 @@ These models are essential in enabling **proactive decision-making** rather than
 
 ---
 
-## 📊 Visualizations & Dashboards
+##  Visualizations & Dashboards
 
 The blog discusses how **interactive dashboards** are built to present:
 - Daily tablet sales trends
@@ -104,6 +111,6 @@ These visual tools help stakeholders—from pharmacists to data scientists—mak
 
 ## 🧾 Real-Life Application Example
 
-> Tamil Nadu Co-operative Pharmacy used analytics to forecast the demand of common fever tablets during a seasonal outbreak, leading to better preparedness and zero wastage.
+Tamil Nadu Co-operative Pharmacy used analytics to forecast the demand of common fever tablets during a seasonal outbreak, leading to better preparedness and zero wastage.
 
 ---
