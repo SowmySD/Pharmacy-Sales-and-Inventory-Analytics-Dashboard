@@ -17,22 +17,26 @@ We collected real-time transaction data, performed detailed exploratory analysis
 
 ---
 
-## Tech Stack
+##  Data Collection
 
-- Python (`pandas`, `pdfplumber`, `PyPDF2`, `scikit-learn`, `statsmodels`)
-- Power BI
-- Google Colab
-- Google Sheets
+- **Source**: Tamil Nadu Co-operative Medical Stores Portal  
+  🔗 [Visit Portal](https://tncoopws.tn.gov.in/medicaljpc/usermanager/youLogin.jsp) 
 
----
+- **Data Duration**: October 2024 – February 2025
 
-## Data Collection
+- **Method**:  
+  Bills were downloaded as **PDFs** and parsed using Python libraries:  
+  - [`PyPDF2`](https://pypi.org/project/PyPDF2/)  
+  - [`pdfplumber`](https://pypi.org/project/pdfplumber/)
 
-- Source: Official portal of [Tamil Nadu Co-operative Medical Stores](https://tncoopws.tn.gov.in/medicaljpc/usermanager/youLogin.jsp)
-- Format: PDF invoices of transactions
-- Tools: `PyPDF2`, `pdfplumber` used for PDF text extraction  
-- Sample data spans from **October 2024 to February 2025**
+- **Sample Data Fields**:
+  - Bill Number, Date  
+  - Doctor & Patient Name  
+  - Medicine Name & Manufacturer  
+  - Quantity, Expiry, Price, GST, Discount  
+  - Total Payment
 
+- 📄 [Sample Dataset Link](https://docs.google.com/spreadsheets/d/1qMRmSIWhoCjH6jh9y78FnBhAW_8NQ6W6/edit?gid=1724690391#gid=1724690391) 
 ---
 
 ## Data Preprocessing
