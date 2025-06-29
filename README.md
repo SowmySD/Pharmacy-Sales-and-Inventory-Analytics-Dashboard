@@ -25,9 +25,7 @@ We collected real-time transaction data, performed detailed exploratory analysis
 - **Data Duration**: October 2024 – February 2025
 
 - **Method**:  
-  Bills were downloaded as **PDFs** and parsed using Python libraries:  
-  - [`PyPDF2`](https://pypi.org/project/PyPDF2/)  
-  - [`pdfplumber`](https://pypi.org/project/pdfplumber/)
+  Bills were downloaded as **PDFs** and parsed using Python libraries like [`PyPDF2`](https://pypi.org/project/PyPDF2/)  and [`pdfplumber`](https://pypi.org/project/pdfplumber/)
 
 - **Sample Data Fields**:
   - Bill Number, Date  
