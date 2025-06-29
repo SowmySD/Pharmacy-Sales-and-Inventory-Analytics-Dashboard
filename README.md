@@ -95,13 +95,12 @@ All analysis and predictions are consolidated into a **Power BI Dashboard** offe
 
 🔗 [View Dashboard](https://app.powerbi.com/links/ReA0aFVzoV?ctid=562673cb-3a12-4428-9c2e-82d74fd5889a&pbi_source=linkShare) 
 
-🎥 **Dashboard Walkthrough Video**  
-🔗 [Watch Video](https://drive.google.com/file/d/1TzLw6Na8McX-zzxVVAEEG715MXMozhqj/view) 
+🔗 [Dashboard Walkthrough Video](https://drive.google.com/file/d/1TzLw6Na8McX-zzxVVAEEG715MXMozhqj/view) 
 
-![Alt Text]()
-![Alt Text]()
-![Alt Text]()
-![Alt Text]()
+![Alt Text](https://github.com/SowmySD/Pharmacy-Sales-and-Inventory-Analytics-Dashboard/blob/f70a065164bf0bc03546077c1ec320d95eb64346/Pharmacy%20Dashboard/Snapshots/Page1.png)
+![Alt Text](https://github.com/SowmySD/Pharmacy-Sales-and-Inventory-Analytics-Dashboard/blob/f70a065164bf0bc03546077c1ec320d95eb64346/Pharmacy%20Dashboard/Snapshots/Page2.png)
+![Alt Text](https://github.com/SowmySD/Pharmacy-Sales-and-Inventory-Analytics-Dashboard/blob/f70a065164bf0bc03546077c1ec320d95eb64346/Pharmacy%20Dashboard/Snapshots/Page3.png)
+![Alt Text](https://github.com/SowmySD/Pharmacy-Sales-and-Inventory-Analytics-Dashboard/blob/f70a065164bf0bc03546077c1ec320d95eb64346/Pharmacy%20Dashboard/Snapshots/Page4.png)
 
 ---
 
@@ -144,7 +143,7 @@ This project successfully:
 Tamil Nadu Co-operative Pharmacy used analytics to forecast the demand of common fever tablets during a seasonal outbreak, leading to better preparedness and zero wastage.
 
 ---
+
 ✍️ **Read the Full Blog**  
-Check out the detailed blog post here:  
-📖 [Pharmacy Sales and Inventory Analytics Using Power BI](https://medium.com/@sowmya.dina2004/tablets-trends-where-healthcare-meets-data-science-74b3b1464ff9) 
+Check out the detailed blog post here: [Pharmacy Sales and Inventory Analytics Using Power BI](https://medium.com/@sowmya.dina2004/tablets-trends-where-healthcare-meets-data-science-74b3b1464ff9) 
 
